@@ -40,13 +40,6 @@
     </developer>
   </developers>
 
-  <modules>
-    <module>rainfall-core</module>
-    <module>rainfall-ehcache</module>
-    <module>rainfall-jcache</module>
-    <module>rainfall-web</module>
-  </modules>
-
   <distributionManagement>
     <snapshotRepository>
       <id>ossrh-snapshot</id>
